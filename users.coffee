@@ -4,10 +4,12 @@ inquirer = require 'inquirer'
 Steam = require 'steam'
 
 POSSIBLE_GAMES = [
-  {name: 'CS 1.6', value: '10', checked: true}
-  {name: 'CS Source', value: '240', checked: true}
-  {name: 'CS GO', value: '730', checked: true}
-  {name: 'Dota 2', value: '570'}
+ {name: 'Counter-Strike', value: '10', checked: true}
+ {name: 'Day of Defeat', value: '30', checked: true}
+ {name: 'Team Fortress Classic', value: '20', checked: true}
+ {name: 'Counter-Strike: Source', value: '240', checked: true}
+ {name: 'Team Fortress 2', value: '440', checked: true}
+ {name: 'Counter-Strike: Global Offensive', value: '730', checked: true}
 ]
 
 account = null
