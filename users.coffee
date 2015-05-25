@@ -5,8 +5,22 @@ Steam = require 'steam'
 
 POSSIBLE_GAMES = [
  {name: 'Counter-Strike', value: '10', checked: true}
- {name: 'Day of Defeat', value: '30', checked: true}
  {name: 'Team Fortress Classic', value: '20', checked: true}
+ {name: 'Day of Defeat', value: '30', checked: true}
+ {name: 'Half-Life', value: '70', checked: true}
+ {name: 'Counter-Strike: Condition Zero', value: '80', checked: true}
+ {name: 'Deathmatch Classic', value: '40', checked: true}
+ {name: 'Ricochet', value: '60', checked: true}
+ {name: 'Half-Life 2', value: '220', checked: true}
+ {name: 'Half-Life 2: Deathmatch', value: '320', checked: true}
+ {name: 'Day of Defeat: Source', value: '300', checked: true}
+ {name: 'Portal', value: '400', checked: true}
+ {name: 'Portal 2', value: '620', checked: true}
+ {name: 'Left 4 Dead', value: '500', checked: true}
+ {name: 'Left 4 Dead 2', value: '550', checked: true}
+ {name: 'Dota 2', value: '570', checked: true}
+ {name: 'Garry's Mod', value: '4000', checked: true}
+ {name: 'Killing Floor', value: '1250', checked: true}
  {name: 'Counter-Strike: Source', value: '240', checked: true}
  {name: 'Team Fortress 2', value: '440', checked: true}
  {name: 'Counter-Strike: Global Offensive', value: '730', checked: true}
