@@ -4,9 +4,7 @@ inquirer = require 'inquirer'
 Steam = require 'steam'
 
 POSSIBLE_GAMES = [
- {name: 'Counter-Strike', value: '10', checked: true}
- {name: 'Day of Defeat', value: '30', checked: true}
- {name: 'Counter-Strike: Condition Zero', value: '80', checked: true}
+ {name: 'Half-Life:2 DM', value: '320', checked: true}
  {name: 'Counter-Strike: Source', value: '240', checked: true}
  {name: 'Team Fortress 2', value: '440', checked: true}
  {name: 'Counter-Strike: Global Offensive', value: '730', checked: true}
